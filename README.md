@@ -20,7 +20,7 @@
 </p>
 
 <p>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=goralex02&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![LeetCode Stats](https://leetcode.card.workers.dev/goralex02?theme=default&font=baloo&extension=activity)
 </p>
 
 <h3 align="left">Навыки:</h3>
