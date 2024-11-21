@@ -9,9 +9,7 @@
 
 - 🤝 Пет-проект с веб-приложением [Предсказание удовлетворенности полетом](https://github.com/goralex02/Flight_satisfaction)
 
-- 📫 Мой телеграм [goralex022](https://t.me/goralex022)
-- [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/goralex022)
-- - [![goralex022](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/goralex022)
+- 📫 Мой телеграм [goralex022](https://t.me/goralex022) [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/goralex022)
 
 - 📄 Мое резюме на hh [Ссылка на резюме](https://hh.ru/applicant/resumes/view?resume=23e56616ff0bcd13bc0039ed1f49626876486c)
 
@@ -19,6 +17,10 @@
 <p align="left">
 <a href="https://kaggle.com/goralex02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="goralex02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/goralex02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="goralex02" height="30" width="40" /></a>
+</p>
+
+<p>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=goralex02&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 </p>
 
 <h3 align="left">Навыки:</h3>
