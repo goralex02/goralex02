@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goralex02&label=Profile%20views&color=0e75b6&style=flat" alt="goralex02" /> </p>
 
-- 🔭 👨‍💻 Выполненные проекты [Порфтолио проектов](https://github.com/goralex02/Data_Processing_and_Machine_Learning)
+- 🔭 👨‍💻 Выполненные проекты: [Порфтолио проектов](https://github.com/goralex02/Data_Processing_and_Machine_Learning)
 
-- ⚡ Большой пет-проект [Предсказание лайков в социальной сети](https://github.com/goralex02/Likes_prediction)
+- ⚡ Большой пет-проект: [Предсказание лайков в социальной сети](https://github.com/goralex02/Likes_prediction)
 
-- 🤝 Пет-проект с веб-приложением [Предсказание удовлетворенности полетом](https://github.com/goralex02/Flight_satisfaction)
+- 🤝 Пет-проект с веб-приложением: [Предсказание удовлетворенности полетом](https://github.com/goralex02/Flight_satisfaction)
 
 - 📫 Мой телеграм **@goralex022**
 
