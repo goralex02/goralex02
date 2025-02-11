@@ -17,7 +17,7 @@
 
 - 📄 Мое резюме на hh [Ссылка на резюме](https://hh.ru/applicant/resumes/view?resume=23e56616ff0bcd13bc0039ed1f49626876486c)
 
-<h3 align="left">Страницы в других соцсетях:</h3>
+<h3 align="left">Страницы на других площадках:</h3>
 <p align="left">
 <a href="https://kaggle.com/goralex02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="goralex02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/goralex02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="goralex02" height="30" width="40" /></a>
