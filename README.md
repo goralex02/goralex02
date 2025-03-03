@@ -1,11 +1,11 @@
-<h1 align="center">Привет 👋, я Александр</h1>
+<h1 align="center">Привет 👋, я Саша </h1>
 <h3 align="center">Data Scientist (ML-engineer) из Москвы</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goralex02&label=Profile%20views&color=0e75b6&style=flat" alt="goralex02" /> </p>
 
 Студент 1 курса магистратуры НИУ ВШЭ. Интересуюсь машинным обучением и анализом данных.
 
-- 🔭 👨‍💻 Выполненные проекты по ML [Порфтолио проектов](https://github.com/goralex02/Data_Processing_and_Machine_Learning)
+- 🔭 👨‍💻 Выполненные проекты по ML [Порфтолио проектов](https://github.com/goralex02/portfolio)
 
 - ⚡ Большой пет-проект [Предсказание лайков в социальной сети](https://github.com/goralex02/Likes_prediction)
 
